@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "There exist underserved market segments within the RL industry where new startups can build billion-dollar companies by addressing specific technical or industry pain points."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
